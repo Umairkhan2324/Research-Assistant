@@ -1,4 +1,4 @@
-# Research Assistant - README
+# Research Assistant 
 
 ## Overview
 
